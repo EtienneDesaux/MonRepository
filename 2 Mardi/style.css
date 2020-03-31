@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.button:
+{
+  width: 150px;
+  height: 38px;
+  font-size: 17px;
+  border: none;
+  background-color: #CACDCF;
+  color: #444546;
+  border-radius: 5px;
+}
+
+input:hover
+{border: solid silver;
+  box-shadow: 1px 1px 1px silver;
+}
+
+
+
+#navbar {display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      }
+
+#logo {display: flex;
+        justify-content: center;
+        }
+
+#country {display: flex;
+      justify-content: flex-start;
+      background-color: grey;
+      }
+
+#footered {display: flex;
+	background-color: grey;
+      }
+    
