@@ -1,0 +1,22 @@
+.button:
+{
+  width: 150px;
+  height: 38px;
+  font-size: 17px;
+  border: none;
+  background-color: #CACDCF;
+  color: #444546;
+  border-radius: 5px;
+}
+
+input:hover
+{
+  border: solid silver;
+  box-shadow: 1px 1px 1px silver;
+}
+
+
+footer:
+{
+
+    background-color: grey;
